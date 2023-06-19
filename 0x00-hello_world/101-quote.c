@@ -1,9 +1,9 @@
 #include<stdio.h>
-#include<unistd.h>
+#include<unistd.d>
 /**
- * main -prints the phrase 
+ * main -Entry pharse
  *
- * Return: Always 1 
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
